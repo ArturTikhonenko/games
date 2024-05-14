@@ -1,6 +1,11 @@
 * {
 	margin: 0;
 	padding: 0;
+	color:white;
+}
+
+body{
+	background-color: #71907C;
 }
 
 img {
@@ -62,7 +67,7 @@ div.listtop ol li{
     margin-bottom:5px;
 }
 div.listtop ol li a{
-    color:black;
+    color:white;
     text-decoration:none;
 }
 div.top ul li{
@@ -80,7 +85,7 @@ div.top ul li div{
 }
 div.top ul li a{
 	font-size:26px;
-	 color:#76A085;
+	 color:#374B3E;
 	text-decoration:none;
 	 width: max-content;
 	  margin:0 auto;
